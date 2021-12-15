@@ -1,5 +1,7 @@
-Nazywam się Kamil Dembek, uczę się na WSB w Gdańsku. 
-Moje zainteresowania to programowanie oraz nauka języka angielskiego. 
+:wave:	Nazywam się Kamil Dembek
+
+:computer:	Interesuje się programowaniem w języku .. 
+:
 
 Skontaktuj się ze mną: bazyleeo@gmail.com
 
