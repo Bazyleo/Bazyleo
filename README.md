@@ -1,9 +1,8 @@
 :wave:	Nazywam się Kamil Dembek
-
-:computer:	Interesuje się programowaniem w języku .. 
-:
-
-Skontaktuj się ze mną: bazyleeo@gmail.com
+:books: Studiuje w Wyższej Szkole Bankowej w Gdańsku
+:school:	Interesuje się programowaniem oraz nauką angielskiego
+:computer: Chciałbym się rozwijać w języku Java
+:email: Skontaktuj się ze mną: bazyleeo@gmail.com
 
 
 <!---
