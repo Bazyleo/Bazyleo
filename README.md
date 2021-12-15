@@ -4,7 +4,7 @@
 
 :school:	Interesuje się programowaniem oraz nauką angielskiego
 
-:computer: Chciałbym się rozwijać w języku Java
+:computer: Aktualnie rozwijam się w Javie oraz C#
 
 :email: Skontaktuj się ze mną: bazyleeo@gmail.com
 
